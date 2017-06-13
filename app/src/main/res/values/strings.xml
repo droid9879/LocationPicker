@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Location Picker</string>
+    <string name="title_activity_maps">Location Picker</string>
+
+    <string name="addB">Mark Point</string>
+    <string name="removeButton">Remove Point</string>
+    <string name="sendB">Send Points</string>
+    <string name="downloadB">Download Points</string>
+
+    <string name="textView">example: 1.111.11.11:3306/my_database_name</string>
+    <string name="textView1">Database user</string>
+    <string name="textView2">Database password</string>
+
+    <string name="button10">Save data</string>
+    <string name="button11">Load last data</string>
+    <string name="button12">Start</string>
+
+    <string name="enterIP">Enter the database location</string>
+    <string name="enterUser">Enter the database username</string>
+    <string name="enterPass">Enter the database password</string>
+
+    <string name="DataSaved">Data saved</string>
+
+    <string name="Sending">Sending...</string>
+    <string name="Downloading">Downloading...</string>
+    <string name="SendingData">Sending data</string>
+    <string name="DownloadingData">Downloading data</string>
+    <string name="EnterTheName">Enter the name of the point</string>
+    <string name="Ok">Ok</string>
+    <string name="EnterName">Enter a name</string>
+    <string name="Cancel">Cancel</string>
+    <string name="DataSent">Data has been sent</string>
+    <string name="DataDownloaded">Data has been downloaded</string>
+    <string name="IncorrectLogin">Incorrect login information</string>
+    <string name="Settings">Settings</string>
+    <string name="RequiresGPS">The application requires a GPS service</string>
+    <string name="Close">Close</string>
+    <string name="RequiredGPS">Required GPS</string>
+    <string name="RequiresData">The application requires data transmission enabled</string>
+    <string name="DataTransmission">Data transmission required</string>
+    <string name="DownloadingLocations">Downloading locations ...</string>
+
+
+
+
+
+</resources>
